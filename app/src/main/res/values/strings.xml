@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VendingMachine</string>
+
+    <string name="drink_name_coca_cola">コカ・コーラ</string>
+    <string name="drink_name_coca_cola_plus_zero">コカ・コーラ プラスゼロ</string>
+
+    <string name="total_fee">投入金額: %1$d円</string>
+</resources>
